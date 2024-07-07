@@ -23,6 +23,10 @@ public:
 
 	bool Withdraw(float withdrawAmount);
 
+	float GetCurrentBlance();
+
+	void GetAccountInformation();
+
 
 };
 
